@@ -1,0 +1,12 @@
+body {
+    font-family:sans-serif;
+    background-color: aqua;
+}
+h1 {
+    font-size: 100px;
+    background-color: lightblue;
+    padding: center;
+}
+table {
+    font-size: 30px;
+}
