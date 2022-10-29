@@ -1,0 +1,21 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:lightblue;
+}
+h1 {
+    font-size: 50px;
+    background-color: aqua;
+}
+p {
+    font-size: 30px;
+    text-align: center;
+}
+button {
+    background-color: red;
+    height: 100px;
+    width: 200px;
+    font-size: 30px;
+}
+button:hover {
+    background-color: lightcoral;
+}
